@@ -112,6 +112,18 @@
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977326/patrickmaryika2_quom9q.jpg",
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977316/patrickmaryika1_nfe3fl.jpg"
       ]
+    },
+    {
+      "id": 1733246483453,
+      "name": "Ragnar",
+      "description": "Smelly dog",
+      "age": 3,
+      "species": "dog",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5ce47888549d030001200385/77b5b033-1e8c-4e11-a6f2-0650356530c4/WetDogsAreStinkyDogs.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5ce47888549d030001200385/77b5b033-1e8c-4e11-a6f2-0650356530c4/WetDogsAreStinkyDogs.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5ce47888549d030001200385/77b5b033-1e8c-4e11-a6f2-0650356530c4/WetDogsAreStinkyDogs.jpg"
+      ]
     }
   ]
 }
