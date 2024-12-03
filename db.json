@@ -112,7 +112,36 @@
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977326/patrickmaryika2_quom9q.jpg",
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977316/patrickmaryika1_nfe3fl.jpg"
       ]
+    },
+    {
+      "id": 1733241444925,
+      "name": "Emerald",
+      "description": "A cute striped cat with green eyes",
+      "age": 2,
+      "species": "Cat",
+      "images": [
+        "https://cdn.pixabay.com/photo/2024/03/07/10/38/simba-8618301_1280.jpg"
+      ]
+    },
+    {
+      "id": 1733241788617,
+      "name": "Snowball",
+      "description": "A fluffy white cat",
+      "age": 2,
+      "species": "Cat",
+      "images": [
+        "https://www.purina.in/sites/default/files/2023-05/feast.png"
+      ]
+    },
+    {
+      "id": 1733244595828,
+      "name": "Scottie",
+      "description": "A cute Scottish fold kitty with warm golden eyes",
+      "age": 4,
+      "species": "Cat",
+      "images": [
+        "https://cdn.britannica.com/36/234736-050-4AC5B6D5/Scottish-fold-cat.jpg"
+      ]
     }
   ]
 }
-
