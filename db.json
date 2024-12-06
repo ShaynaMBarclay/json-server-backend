@@ -8,11 +8,13 @@
       "special": false,
       "vaccination": true,
       "sterilisation": true,
+      "location": "Odesa",
       "description": "Three colors for happiness – Simona. She is really amazing – our Simona! If there were a contest for 'twist-and-turn', Simona would definitely be the winner – she is a very cheerful kitty! But sometimes the little girl feels sad too because her past isn't a happy one. She herself is a sweetheart. Tricolored – they say it's for bringing happiness to a home. And she's also a joy because she's cheerful, talkative, and energetic. It's impossible to photograph her because she's constantly in motion. You won't regret it if you take her!",
       "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733504258/simona5_ne0rxe.jpg",
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733177827/simona1_blfyoz.jpg",
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977276/simona2_mdwdd1.jpg",
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977299/simona3_siocya.jpg"
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977299/simona3_siocya.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733504262/simona4_gsn8lh.jpg"
       ]
     },
     {
@@ -23,6 +25,7 @@
       "special": true,
       "vaccination": true,
       "sterilisation": true,
+      "location": "Odesa",
       "description": "This is Green the cat. 7 years of temporary homes. It so happened that he is theoretically left without a guardian. He lived in temporary housing, and not just one, but no one was taking care of finding him a permanent home. So he lived like an invisible being, as if he was there, but at the same time not. Green holds his head slightly to the side. A long time ago, he was treated for ear problems, but this trait has remained with him. What's the situation now - it's unknown. It needs to be checked. Green is like a shadow - he quietly sits always in one place and stares at one spot. I really want a kind and sincere person to notice this cat. He has already suffered enough, and the conditions he lived in were not always good. He has never known what human care and love are. Please pay attention to Green.",
       "images": [
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977337/hrin_dsxapk.jpg"
@@ -36,6 +39,7 @@
       "special": false,
       "vaccination": false,
       "sterilisation": false,
+      "location": "Odesa",
       "description": "A kitten was found in the middle of a field next to a watermelon stand.",
       "images": [
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977399/kavunchyk1_ryfttk.jpg",
@@ -51,6 +55,7 @@
       "special": false,
       "vaccination": true,
       "sterilisation": true,
+      "location": "Odesa",
       "description": "5 kg of happiness. She is beautiful, calm, and sad. Graceful, with a nice fluffy and gray coat, green-eyed. Sad, because she lives in a shelter in a separate and constantly closed room. Sandra cannot live with her fellow cats. She is proud and must be the only one in the family. With people, she is very affectionate and sociable. An adult, balanced cat who won't cause mess, noise, or torn curtains in your house. There will be peace, and in it, the quiet soothing purr of your fluffy friend. We are looking to give her to responsible adults who can take care of the animal. Feed her good food, treat her if necessary, and most importantly, take her with you if you have to move.",
       "images": [
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977174/sandra2_w1dy2i.jpg",
@@ -65,92 +70,147 @@
       "special": false,
       "vaccination": true,
       "sterilisation": false,
+      "location": "Odesa",
       "description": "Patrick and Maryika are two more kittens out of four that were abandoned on the grounds of a monastery. The first two have already gone to homes from the clinic. These two also have ringworm, and it's such that it cannot be treated at the shelter, so I have to keep them in the clinic. The kittens have received their first vaccination.",
       "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733253491/patrickmaryika3_evxakt.jpg",
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977326/patrickmaryika2_quom9q.jpg",
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977316/patrickmaryika1_nfe3fl.jpg"
       ]
     },
     {
       "id": 6,
-      "name": "TEST6",
+      "name": "Kukuruzka (baby corn)",
       "age": "1",
       "species": "cat",
       "special": false,
-      "vaccination": true,
+      "vaccination": false,
       "sterilisation": false,
-      "description": "Patrick and Maryika are two more kittens out of four that were abandoned on the grounds of a monastery. The first two have already gone to homes from the clinic. These two also have ringworm, and it's such that it cannot be treated at the shelter, so I have to keep them in the clinic. The kittens have received their first vaccination.",
+      "location": "Odesa",
+      "description": "Metis of American Curl. Only the ears “didn't quite work out” - probably the victim of some breeders who are too numerous and do not adhere to breeding standards at all. The kitty is 6 months old, an incredibly affectionate purring baby. So sweet and cozy.",
       "images": [
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977326/patrickmaryika2_quom9q.jpg",
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977316/patrickmaryika1_nfe3fl.jpg"
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733251440/kukuruzka_lupbpk.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733251727/kukuruzka2_vnefqa.jpg"
       ]
     },
     {
       "id": 7,
-      "name": "TEST7",
-      "age": "1",
+      "name": "Lypa (Linden)",
+      "age": "5",
       "species": "cat",
       "special": false,
       "vaccination": true,
-      "sterilisation": false,
-      "description": "Patrick and Maryika are two more kittens out of four that were abandoned on the grounds of a monastery. The first two have already gone to homes from the clinic. These two also have ringworm, and it's such that it cannot be treated at the shelter, so I have to keep them in the clinic. The kittens have received their first vaccination.",
+      "sterilisation": true,
+      "location": "Odesa",
+      "description": "Quiet and unnoticeable at first, she will definitely show you that she knows how to trust and love. She is just not brave and oppressive in the team. She is about 5 years old.",
       "images": [
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977326/patrickmaryika2_quom9q.jpg",
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977316/patrickmaryika1_nfe3fl.jpg"
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733255658/Lypa1_c1vr2u.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733255655/Lypa2_i8luai.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733255652/Lypa3_swjkc8.jpg"
       ]
     },
     {
       "id": 8,
-      "name": "TEST8",
+      "name": "Panda",
+      "age": "-",
+      "species": "cat",
+      "special": false,
+      "vaccination": true,
+      "sterilisation": true,
+      "location": "Odesa",
+      "description": "Look into the eyes of the cat Panda🥺! They are full of sadness, hopelessness and sorrow. One of the many unwanted cats, those who are not noticed by people on the street, those who have never known what love and safety are...  All her life she lived on the street, in the city park - in winter, summer, in cold and in rain...  Now she is in a shelter, getting used to a safe life, where she doesn't have to hide from dogs and look for food and water.  Please, pay attention to Panda, we would like to give her a chance to live in a family and care, in good conditions!",
+      "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733256479/panda1_tqaorx.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733256474/panda2_juxmqe.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mriya (Dream)",
+      "age": "-",
+      "species": "cat",
+      "special": false,
+      "vaccination": true,
+      "sterilisation": true,
+      "location": "Odesa",
+      "description": "Mriya is a three-colored beauty. A sweet, fragile, playful beauty dreams of becoming a pet and falling asleep in the arms of a reliable person. She was rescued as a baby and is currently in a shelter. I hope that there will be a person with a kind heart and this kitty will feel the love and care of a reliable person.",
+      "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733256850/mriya1_xcmacj.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733256844/mriya2_qpfcps.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733256848/mriya3_jvfmek.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Caroline",
+      "age": "1",
+      "species": "cat",
+      "special": false,
+      "vaccination": false,
+      "sterilisation": false,
+      "location": "Odesa",
+      "description": "She is about 6-7 months old. She is a fragile little girl. She is still a little afraid of people, but not aggressive, so adaptation depends on the willingness of a person to give a chance to this girl who was brought from a half-destroyed city where rockets often fly and fall. She was brought to give her a chance to survive. ",
+      "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733257164/caroline_e9mlbq.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Ragnar",
+      "age": "3",
+      "species": "dog",
+      "special": false,
+      "vaccination": true,
+      "sterilisation": false,
+      "location": "not Odesa",
+      "description": "Ragnar is a very friendly dog, oriented towards people. You cannot adopt him if you have small kittens at home, he is afraid of them. He comes with his owner Joshua",
+      "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733423691/bve084bq0djpdr9laled.png"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Olli",
+      "age": "1",
+      "species": "cat",
+      "special": true,
+      "vaccination": false,
+      "sterilisation": false,
+      "location": "Odesa",
+      "description": "Little girl Olli – let goodness prevail. In recent days, new charges have been coming in, and I had promised myself not to answer any more calls. But this call broke my resolve and promises to myself. A man called, who himself couldn't pass by and picked up a kitten in terrible condition from the street. He treated it for two weeks at his own expense. However, the treatment hit a dead end, and the kitten wasn't getting better. The man started seeking help and advice. He listed all the shelters and even named volunteers to whom he had reached out. I was the last on his list. After watching the video and listening to the man, I agreed... Yes, I have quite a few debts today, and those under my care are also receiving treatment. But I really wanted to help this man achieve the happy outcome he had started and so desired. His sincerity, kindness, and tenderness towards the little unfortunate creature won me over... What we have today – out of two sick eyes, one has been removed. However, both the removed eye and the one that remains look bad – purulent discharge, untreated infection. The broken leg won't 'repair,' the nerve is torn, and hopefully, amputation can be avoided. The little girl is weak, with leukocytosis and anemia. 🐾 LATEST UPDATE🐾 She is still living in a cage at the clinic, unfortunately, there are no people interested in adopting her so far... They are treating one eye, but there are no other procedures. We are waiting for a miracle and a person with a big sincere heart.",
+      "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733504144/olli1_ibr8e2.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733504147/olli2_cakycg.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "",
       "age": "1",
       "species": "cat",
       "special": false,
       "vaccination": true,
       "sterilisation": false,
-      "description": "Patrick and Maryika are two more kittens out of four that were abandoned on the grounds of a monastery. The first two have already gone to homes from the clinic. These two also have ringworm, and it's such that it cannot be treated at the shelter, so I have to keep them in the clinic. The kittens have received their first vaccination.",
+      "location": "Odesa",
+      "description": "",
       "images": [
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977326/patrickmaryika2_quom9q.jpg",
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977316/patrickmaryika1_nfe3fl.jpg"
+        "",
+        ""
       ]
     },
     {
-      "id": 1733246483453,
-      "name": "Ragnar",
-      "description": "Smelly dog",
-      "age": 3,
-      "species": "dog",
+      "id": 14,
+      "name": "fake",
+      "age": "1",
+      "species": "cat",
+      "special": false,
+      "vaccination": true,
+      "sterilisation": false,
+      "location": "Odesa",
+      "description": "",
       "images": [
-        "https://images.squarespace-cdn.com/content/v1/5ce47888549d030001200385/77b5b033-1e8c-4e11-a6f2-0650356530c4/WetDogsAreStinkyDogs.jpg",
-        "https://images.squarespace-cdn.com/content/v1/5ce47888549d030001200385/77b5b033-1e8c-4e11-a6f2-0650356530c4/WetDogsAreStinkyDogs.jpg",
-        "https://images.squarespace-cdn.com/content/v1/5ce47888549d030001200385/77b5b033-1e8c-4e11-a6f2-0650356530c4/WetDogsAreStinkyDogs.jpg"
-      ]
-    },
-    {
-      "id": 1733241444925,
-      "name": "Emerald",
-      "description": "A cute striped cat with green eyes",
-      "age": 2,
-      "species": "Cat",
-      "images": [
-        "https://cdn.pixabay.com/photo/2024/03/07/10/38/simba-8618301_1280.jpg"
-      ]
-    },
-    {
-      "id": 1733241788617,
-      "name": "Snowball",
-      "description": "A fluffy white cat",
-      "age": 2,
-      "species": "Cat",
-      "images": ["https://www.purina.in/sites/default/files/2023-05/feast.png"]
-    },
-    {
-      "id": 1733244595828,
-      "name": "Scottie",
-      "description": "A cute Scottish fold kitty with warm golden eyes",
-      "age": 4,
-      "species": "Cat",
-      "images": [
-        "https://cdn.britannica.com/36/234736-050-4AC5B6D5/Scottish-fold-cat.jpg"
+        "",
+        ""
       ]
     }
   ]
