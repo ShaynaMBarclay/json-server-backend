@@ -1,26 +1,10 @@
 {
   "cats": [
     {
-      "id": 1,
-      "name": "Simona",
-      "age": "-",
-      "species": "cat",
-      "special": false,
-      "vaccination": true,
-      "sterilisation": true,
-      "location": "Odesa",
-      "description": "Three colors for happiness – Simona. She is really amazing – our Simona! If there were a contest for 'twist-and-turn', Simona would definitely be the winner – she is a very cheerful kitty! But sometimes the little girl feels sad too because her past isn't a happy one. She herself is a sweetheart. Tricolored – they say it's for bringing happiness to a home. And she's also a joy because she's cheerful, talkative, and energetic. It's impossible to photograph her because she's constantly in motion. You won't regret it if you take her!",
-      "images": [
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733504258/simona5_ne0rxe.jpg",
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733177827/simona1_blfyoz.jpg",
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977299/simona3_siocya.jpg",
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733504262/simona4_gsn8lh.jpg"
-      ]
-    },
-    {
       "id": 2,
+      "adopted": false,
       "name": "Green",
-      "age": "-",
+      "age": "7+",
       "species": "cat",
       "special": true,
       "vaccination": true,
@@ -32,23 +16,8 @@
       ]
     },
     {
-      "id": 3,
-      "name": "Kavunchyk (baby watermelon)",
-      "age": "1",
-      "species": "cat",
-      "special": false,
-      "vaccination": false,
-      "sterilisation": false,
-      "location": "Odesa",
-      "description": "A kitten was found in the middle of a field next to a watermelon stand.",
-      "images": [
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977399/kavunchyk1_ryfttk.jpg",
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977334/kavunchyk2_pfpaoc.jpg",
-        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733165999/kavunchyk3_t7duqd.jpg"
-      ]
-    },
-    {
       "id": 4,
+      "adopted": false,
       "name": "Sandra",
       "age": "-",
       "species": "cat",
@@ -64,6 +33,7 @@
     },
     {
       "id": 5,
+      "adopted": false,
       "name": "Patrick and Maryika",
       "age": "1",
       "species": "cat",
@@ -80,6 +50,7 @@
     },
     {
       "id": 6,
+      "adopted": false,
       "name": "Kukuruzka (baby corn)",
       "age": "1",
       "species": "cat",
@@ -89,12 +60,14 @@
       "location": "Odesa",
       "description": "Metis of American Curl. Only the ears “didn't quite work out” - probably the victim of some breeders who are too numerous and do not adhere to breeding standards at all. The kitty is 6 months old, an incredibly affectionate purring baby. So sweet and cozy.",
       "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733509164/kukuruzkaa_q542mu.jpg",
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733251440/kukuruzka_lupbpk.jpg",
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733251727/kukuruzka2_vnefqa.jpg"
       ]
     },
     {
       "id": 7,
+      "adopted": false,
       "name": "Lypa (Linden)",
       "age": "5",
       "species": "cat",
@@ -111,6 +84,7 @@
     },
     {
       "id": 8,
+      "adopted": false,
       "name": "Panda",
       "age": "-",
       "species": "cat",
@@ -126,6 +100,7 @@
     },
     {
       "id": 9,
+      "adopted": false,
       "name": "Mriya (Dream)",
       "age": "-",
       "species": "cat",
@@ -142,6 +117,7 @@
     },
     {
       "id": 10,
+      "adopted": false,
       "name": "Caroline",
       "age": "1",
       "species": "cat",
@@ -156,6 +132,7 @@
     },
     {
       "id": 11,
+      "adopted": false,
       "name": "Ragnar",
       "age": "3",
       "species": "dog",
@@ -170,6 +147,7 @@
     },
     {
       "id": 12,
+      "adopted": false,
       "name": "Olli",
       "age": "1",
       "species": "cat",
@@ -185,32 +163,88 @@
     },
     {
       "id": 13,
-      "name": "",
+      "adopted": false,
+      "name": "Sofi",
       "age": "1",
       "species": "cat",
       "special": false,
-      "vaccination": true,
+      "vaccination": false,
       "sterilisation": false,
       "location": "Odesa",
-      "description": "",
+      "description": "A charming fluffy beauty Sofi❤️. She has everything - a beautiful fur coat,  beady eyes, and a golden character 😻 But she doesn't have her own family yet. Let's fix it - take Sofi to your home, she is wonderful!",
       "images": [
-        "",
-        ""
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733564468/sofi_pbwfh7.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733564465/sofi2_amvr92.jpg"
       ]
     },
     {
       "id": 14,
-      "name": "fake",
-      "age": "1",
+      "adopted": true,
+      "name": "Patrick",
+      "age": "14",
       "species": "cat",
       "special": false,
       "vaccination": true,
+      "sterilisation": true,
+      "location": "Odesa",
+      "description": "The cat himself lives in a dilapidated house. He needs a family. Here is a message from the animal protection chat: Yulia, the owner of one of the destroyed apartments by missile attack, asks to find a home for the Persian cat Patrick because of the desperate situation with housing. The cat is not sterilized, adult, he is 14 years old.'",
+      "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733564891/patrick1_wrhg5k.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733564899/patrick2_jsqyxm.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733564905/patrick3_hrhbnd.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733564909/patrick4_unrldt.jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "adopted": false,
+      "name": "Simona",
+      "age": "-",
+      "species": "cat",
+      "special": false,
+      "vaccination": true,
+      "sterilisation": true,
+      "location": "Odesa",
+      "description": "Three colors for happiness – Simona. She is really amazing – our Simona! If there were a contest for 'twist-and-turn', Simona would definitely be the winner – she is a very cheerful kitty! But sometimes the little girl feels sad too because her past isn't a happy one. She herself is a sweetheart. Tricolored – they say it's for bringing happiness to a home. And she's also a joy because she's cheerful, talkative, and energetic. It's impossible to photograph her because she's constantly in motion. You won't regret it if you take her!",
+      "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733504258/simona5_ne0rxe.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733177827/simona1_blfyoz.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977299/simona3_siocya.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733504262/simona4_gsn8lh.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "adopted": true,
+      "name": "Oliver🌈",
+      "age": "20",
+      "species": "cat",
+      "special": false,
+      "vaccination": true,
+      "sterilisation": true,
+      "location": "Washington, D.C.",
+      "description": "Oliver is a blue-point Himalayan who is extremely fluffy and needs to be brushed everyday or else his fur will get knotted. He is a sweet boy who loves all people. He prefers people over other animals but is not aggressive or mean to other animals, he keeps to himself. He is gets very attached to his owner and will give all of his love to them for the duration of his life. He loves to be the “big spoon” and also to sleep on top of his owners head. He also knows how to hold hands. He is the best boy.",
+      "images": [
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733570890/IMG_3888_eq4mgq.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733570895/IMG_3889_pxcnxj.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733570899/IMG_3891_1_w3diq4.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "adopted": false,
+      "name": "Kavunchyk (baby watermelon)",
+      "age": "1",
+      "species": "cat",
+      "special": false,
+      "vaccination": false,
       "sterilisation": false,
       "location": "Odesa",
-      "description": "",
+      "description": "A kitten was found in the middle of a field next to a watermelon stand.",
       "images": [
-        "",
-        ""
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977399/kavunchyk1_ryfttk.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977334/kavunchyk2_pfpaoc.jpg",
+        "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733165999/kavunchyk3_t7duqd.jpg"
       ]
     }
   ]
