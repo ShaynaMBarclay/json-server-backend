@@ -16,7 +16,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 17,
       "adopted": false,
       "name": "Sandra",
       "age": "-",
@@ -29,6 +29,21 @@
       "images": [
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732977174/sandra2_w1dy2i.jpg",
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1732981521/sandra1_mkctte.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "adopted": false,
+      "name": "Daisy",
+      "age": "3",
+      "species": "dog",
+      "special": false,
+      "vaccination": true,
+      "sterilisation": true,
+      "location": "Washington, D.C.",
+      "description": "An brindle boxer who loves her family.",
+      "images": [
+        "https://res.cloudinary.com/dizfde4uy/image/upload/v1733872437/IMG_3921_b4e3ek.jpg"
       ]
     },
     {
@@ -66,6 +81,21 @@
       ]
     },
     {
+      "id": 19,
+      "adopted": false,
+      "name": "Iggy",
+      "age": "5",
+      "species": "dog",
+      "special": false,
+      "vaccination": true,
+      "sterilisation": true,
+      "location": "Washington, D.C.",
+      "description": "A very happy and fluffy dog",
+      "images": [
+        "https://res.cloudinary.com/dizfde4uy/image/upload/v1733873389/gettyimages-917452888-edit_custom-81f4b2e17701ffaab6a0c1e07268c3834c861056_ydply1.jpg"
+      ]
+    },
+    {
       "id": 7,
       "adopted": false,
       "name": "Lypa (Linden)",
@@ -83,7 +113,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 16,
       "adopted": false,
       "name": "Panda",
       "age": "-",
@@ -128,6 +158,21 @@
       "description": "She is about 6-7 months old. She is a fragile little girl. She is still a little afraid of people, but not aggressive, so adaptation depends on the willingness of a person to give a chance to this girl who was brought from a half-destroyed city where rockets often fly and fall. She was brought to give her a chance to survive. ",
       "images": [
         "https://res.cloudinary.com/dmvawq2ak/image/upload/v1733257164/caroline_e9mlbq.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "adopted": false,
+      "name": "Tabby",
+      "age": "7",
+      "species": "cat",
+      "special": true,
+      "vaccination": false,
+      "sterilisation": true,
+      "location": "Washington, D.C.",
+      "description": "A sweet blind, orange cat",
+      "images": [
+        "https://res.cloudinary.com/dizfde4uy/image/upload/v1733873446/Blind-cat-Richie-4663MW_iwfetm.avif"
       ]
     },
     {
@@ -248,52 +293,7 @@
       ]
     },
     {
-      "id": 16,
-      "adopted": false,
-      "name": "Odin",
-      "age": "2",
-      "species": "dog",
-      "special": true,
-      "vaccination": true,
-      "sterilisation": true,
-      "location": "Washington, D.C.",
-      "description": "An all black boxer who is fiercly protective of his house. He has a lot of social and seperation anxiety, please give him patience and care.",
-      "images": [
-        "https://res.cloudinary.com/dizfde4uy/image/upload/v1733872437/IMG_5164_k4abv9.jpg"
-      ]
-    },
-    {
-      "id": 17,
-      "adopted": false,
-      "name": "Odin",
-      "age": "2",
-      "species": "dog",
-      "special": true,
-      "vaccination": true,
-      "sterilisation": true,
-      "location": "Washington, D.C.",
-      "description": "An all black boxer who is fiercly protective of his house. He has a lot of social and seperation anxiety, please give him patience and care.",
-      "images": [
-        "https://res.cloudinary.com/dizfde4uy/image/upload/v1733872437/IMG_5164_k4abv9.jpg"
-      ]
-    },
-    {
-      "id": 18,
-      "adopted": false,
-      "name": "Odin",
-      "age": "2",
-      "species": "dog",
-      "special": true,
-      "vaccination": true,
-      "sterilisation": true,
-      "location": "Washington, D.C.",
-      "description": "An all black boxer who is fiercly protective of his house. He has a lot of social and seperation anxiety, please give him patience and care.",
-      "images": [
-        "https://res.cloudinary.com/dizfde4uy/image/upload/v1733872437/IMG_5164_k4abv9.jpg"
-      ]
-    },
-    {
-      "id": 16,
+      "id": 8,
       "adopted": false,
       "name": "Odin",
       "age": "2",
