@@ -81,6 +81,37 @@
       ]
     },
     {
+      "id": 20,
+      "adopted": false,
+      "name": "Bluesky",
+      "age": "2",
+      "species": "cat",
+      "special": true,
+      "vaccination": false,
+      "sterilisation": true,
+      "location": "Washington, D.C.",
+      "description": "A small cute kiten with bright blue eyes.",
+      "images": [
+        "https://res.cloudinary.com/dizfde4uy/image/upload/v1733874131/Juvenile_Ragdoll_dnswhq.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "adopted": false,
+      "name": "Emerald",
+      "age": "4",
+      "species": "cat",
+      "special": true,
+      "vaccination": false,
+      "sterilisation": true,
+      "location": "Washington, D.C.",
+      "description": "A happy kitty with bright green eyes.",
+      "images": [
+        "https://res.cloudinary.com/dizfde4uy/image/upload/v1733874131/your-cats-first-season_g1d4pq.webp"
+      ]
+    },
+    
+    {
       "id": 19,
       "adopted": false,
       "name": "Iggy",
